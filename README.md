@@ -51,7 +51,7 @@ https://github.com/NishaAnwar/Logical-Car-Parking-System/blob/main/demo/Demo%20v
 
 ## 📷 Proteus Circuit Diagram
 
-![Circuit Diagram](circuit_diagram/Proteus Circuit Diagram.jpeg)
+![Proteus Circuit Diagram](circuit_diagram/Proteus_Circuit_Diagram.jpeg)
 
 ---
 
