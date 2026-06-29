@@ -51,7 +51,7 @@ https://github.com/NishaAnwar/Logical-Car-Parking-System/blob/main/demo/Demo%20v
 
 ## 📷 Proteus Circuit Diagram
 
-![Circuit Diagram](circuit_diagram/circuit.png)
+![Circuit Diagram](circuit_diagram/Proteus Circuit Diagram.jpeg)
 
 ---
 
@@ -71,4 +71,4 @@ Department of Computer Engineering, UET Lahore.
 ## 👩‍💻 Author
 
 **Nisha Anwar**
-BS Computer Engineering, UET Lahore
+BSc Computer Engineering, UET Lahore
