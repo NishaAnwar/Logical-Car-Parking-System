@@ -7,7 +7,7 @@ A hardware-based smart parking system built using logic gates, IR sensors, and L
 
 ## 📌 Project Overview
 
-This project implements a smart car parking system entirely using digital logic components — no microcontroller or software involved. IR sensors detect whether a parking slot is occupied or vacant, logic gates process the sensor signals, and LEDs provide visual feedback to drivers, indicating available and occupied spaces at a glance.
+This project implements a smart car parking system entirely using digital logic components. IR sensors detect whether a parking slot is occupied or vacant, logic gates process the sensor signals, and LEDs provide visual feedback to drivers, indicating available and occupied spaces at a glance.
 
 The system improves parking efficiency, reduces congestion, and demonstrates how real-world automation problems can be solved with fundamental digital electronics.
 
