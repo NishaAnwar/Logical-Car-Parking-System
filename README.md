@@ -40,21 +40,6 @@ The system improves parking efficiency, reduces congestion, and demonstrates how
 | `images/` | Photos of the physical hardware setup |
 | `demo/` | Demo video of the working system |
 
----
-
-## 🎥 Demo
-
-https://github.com/NishaAnwar/Logical-Car-Parking-System/blob/main/demo/Demo%20video%20of%20the%20working%20system.mp4
-
-
----
-
-## 📷 Proteus Circuit Diagram
-
-![Proteus Circuit Diagram](circuit_diagram/Proteus_Circuit_Diagram.jpeg)
-
----
-
 ## 📄 Report
 
 The full project report is available in the [`report/`](report/) folder.
