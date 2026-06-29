@@ -44,13 +44,8 @@ The system improves parking efficiency, reduces congestion, and demonstrates how
 
 ## 🎥 Demo
 
+https://github.com/NishaAnwar/Logical-Car-Parking-System/blob/main/demo/Demo%20video%20of%20the%20working%20system.mp4
 
-
-https://github.com/user-attachments/assets/YOUR-VIDEO-ID
-
-
-
-> Replace `YOUR-VIDEO-ID` with the actual asset ID after uploading your video to the repo.
 
 ---
 
